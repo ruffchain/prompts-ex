@@ -1,9 +1,9 @@
 {
-  name": "prompts-ex",
+  "name": "prompts-ex",
   "version": "2.1.0",
   "description": "Lightweight, beautiful and user-friendly prompts",
   "license": "MIT",
-  "repository": "terkelg/prompts",
+  "repository": "https://github.com/ruffchain/prompts-ex.git",
   "main": "index.js",
   "author": {
     "name": "Terkel Gjervig",
